@@ -63,3 +63,7 @@ https://sound-au.com/articles/reverb.htm
 https://kassu2000.blogspot.com/2015/10/spring-reverb.html
 
 https://www.lookmumnocomputer.com/modular
+
+https://github.com/telec16/kicad
+
+https://github.com/holmesrichards/Kosmo_panel
