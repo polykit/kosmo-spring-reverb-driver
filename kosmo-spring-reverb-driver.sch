@@ -6,9 +6,9 @@ encoding utf-8
 Sheet 1 1
 Title "Kosmo Spring Reverb Driver"
 Date "2021-02-17"
-Rev "v1.0.0"
+Rev "v1.0.1"
 Comp "Jan Knipper"
-Comment1 ""
+Comment1 "github.com/polykit/kosmo-spring-reverb-driver"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -1041,4 +1041,6 @@ $EndComp
 Wire Wire Line
 	9400 5250 8900 5250
 Connection ~ 8900 5250
+Text Notes 7000 6450 0    50   ~ 0
+* values need to be adjusted depending on reverb input coil impedance
 $EndSCHEMATC
