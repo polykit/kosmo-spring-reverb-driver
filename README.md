@@ -12,7 +12,7 @@ This repository contains KiCad schematics and PCB layout for a spring reverb dri
 
 Just put everything in, all values are marked on the PCB. Start with the lowest profile. The board is also the front panel of the module so components stick out. It is also possible to solder most of the components on the back if wanted.
 
-*You need a separate spring reverb tank for this module. Marked component values need to be changed depending on your reverbs impedance. The values written on the board are for 8 ohm impedance. I drive a Accutronics 4AB2A1C with it. You need to make sure that the input coil is not grounded to the tanks casing or it won't work.*
+*You need a separate spring reverb tank for this module. Marked component values need to be changed depending on your reverbs impedance. The values written on the board are for 8 ohm impedance. I drive an Accutronics 4AB2A1C with it. You need to make sure that the input coil is not grounded to the tanks casing or it won't work.*
 
 ### Coil impedance
 
@@ -24,7 +24,7 @@ Just put everything in, all values are marked on the PCB. Start with the lowest 
 | 250R                 | 680R         | 5k6     | 6k8      | 22uF   |
 | 600R                 | 1k           | 12k     | 6k8      | 22uF   |
 
-*Disclaimer: I only tested values for 8 ohm impedance coils. You might need to fiddle around with listed values for good results.*
+*I only tested values for 8 ohm impedance coils. You might need to fiddle around with listed values for good results.*
 
 ### BOM
 
