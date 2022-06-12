@@ -1,6 +1,6 @@
 # Kosmo Spring Reverb Driver
 
-This repository contains KiCad schematics and PCB layout for a spring reverb driver in Kosmo modular synthesizer format. It is capable to drive reverbs with an impedance from 8 to 600 ohms.
+This repository contains KiCad schematics and PCB layout for a spring reverb driver in Kosmo modular synthesizer format. It is capable to drive reverbs with an impedance from 8 to 600 ohms. There is a short video at [https://www.youtube.com/watch?v=zHZOu3KcKBQ](https://www.youtube.com/watch?v=zHZOu3KcKBQ).
 
 ![Kosmo Reverb Driver PCB](kosmo-spring-reverb-driver-modulargrid.jpg)
 
